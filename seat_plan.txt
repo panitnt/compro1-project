@@ -1,0 +1,21 @@
+ABC  DEFG  HJK
+F    F  F    F
+F    F  F    F
+F    F  F    F
+  B  B  B  B
+B     BB     B
+  B  B  B  B
+B     BB     B
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX
+XXX  XXXX  XXX

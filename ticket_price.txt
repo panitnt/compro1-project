@@ -1,0 +1,13 @@
+flight,class,price,from-des
+A101,economy,25000,BKK-JFK
+A101,business,77000,BKK-JFK
+A101,first,420000,BKK-JFK
+A102,economy,13000,BKK-NRT
+A102,business,31000,BKK-NRT
+A102,first,200000,BKK-NRT
+A103,economy,11000,BKK-TPE
+A103,business,26000,BKK-TPE
+A103,first,100000,BKK-TPE
+A104,economy,4500,BKK-SIN
+A104,business,10000,BKK-SIN
+A104,first,23000,BKK-SIN
